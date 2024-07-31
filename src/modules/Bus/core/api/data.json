@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "id": "1",
+            "pickUp": "Kaduwela",
+            "delivery": "Matara",
+            "ex": "1-2",
+            "speed": "200"
+        },
+        {
+            "id": "2",
+            "pickUp": "Colorado",
+            "delivery": "California",
+            "ex": "1-5",
+            "speed": "195"
+        },
+        {
+            "id": "3",
+            "pickUp": "Montana",
+            "delivery": "Alabama",
+            "ex": "1-30",
+            "speed": "205"
+        },
+        {
+            "id": "4",
+            "pickUp": "New York",
+            "delivery": "Ohio",
+            "ex": "1-20",
+            "speed": "201"
+        },
+        {
+            "id": "5",
+            "pickUp": "South Dakota",
+            "delivery": "Florida",
+            "ex": "1-12",
+            "speed": "202"
+        },
+        {
+            "id": "6",
+            "pickUp": "Kansas",
+            "delivery": "Michigan",
+            "ex": "1-25",
+            "speed": "203"
+        }
+    ]
+}

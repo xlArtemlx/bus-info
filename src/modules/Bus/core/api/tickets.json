@@ -1,0 +1,144 @@
+{
+    "seats": [
+                {
+                    "seatId": "1",
+                    "number": "1",
+                    "isBooked": true
+                },
+                {
+                    "seatId": "2",
+                    "number": "2",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "3",
+                    "number": "1",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "4",
+                    "number": "2",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "5",
+                    "number": "3",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "6",
+                    "number": "4",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "7",
+                    "number": "3",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "8",
+                    "number": "4",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "9",
+                    "number": "5",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "10",
+                    "number": "6",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "11",
+                    "number": "5",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "12",
+                    "number": "6",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "13",
+                    "number": "7",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "14",
+                    "number": "8",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "15",
+                    "number": "7",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "16",
+                    "number": "8",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "17",
+                    "number": "9",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "18",
+                    "number": "10",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "19",
+                    "number": "9",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "20",
+                    "number": "10",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "21",
+                    "number": "11",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "22",
+                    "number": "12",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "23",
+                    "number": "11",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "24",
+                    "number": "12",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "25",
+                    "number": "13",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "26",
+                    "number": "14",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "27",
+                    "number": "13",
+                    "isBooked": false
+                },
+                {
+                    "seatId": "28",
+                    "number": "14",
+                    "isBooked": true
+                }
+            ]
+}
